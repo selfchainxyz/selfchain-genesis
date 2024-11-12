@@ -1,0 +1,5 @@
+# Comma separated list of seed nodes to connect to
+seeds = "190873258f75876f635e362565f481e06abe1cc0@165.232.125.66:26656,0fc2f5ac7289ebde2d4ef83c77bf6eb6eed11d99@165.22.24.236:26656,df3d2bf1b93c000eb1a3340cb1157da18b9fbc37@165.232.125.66:26656"
+
+# Comma separated list of nodes to keep persistent connections to
+persistent_peers = "190873258f75876f635e362565f481e06abe1cc0@165.232.125.66:26656,0fc2f5ac7289ebde2d4ef83c77bf6eb6eed11d99@165.22.24.236:26656,df3d2bf1b93c000eb1a3340cb1157da18b9fbc37@165.232.125.66:26656"
